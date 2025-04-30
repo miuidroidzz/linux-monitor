@@ -3,7 +3,7 @@
 
 > Uma ferramenta de monitoramento de sistema para Linux, escrita em Bash.
 
-`Linux Monitor Bash` é um utilitário simples de linha de comando que exibe em tempo real o uso da CPU, memória RAM, espaço de armazenamento e as informações do sistema operacional de forma contínua e interativa.
+`Linux Monitor ` é um utilitário simples de linha de comando que exibe em tempo real o uso da CPU, memória RAM, espaço de armazenamento e as informações do sistema operacional de forma contínua e interativa.
 
 ---
 
@@ -30,8 +30,8 @@ Não há dependências externas. O script usa comandos padrões do Linux.
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/miuidroidzz/linux-monitor-bash.git
-    cd linux-monitor-bash
+    git clone https://github.com/miuidroidzz/linux-monitor.git
+    cd linux-monitor
     ```
 
 2. Torne o script executável:
