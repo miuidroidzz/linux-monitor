@@ -1,0 +1,2 @@
+
+Nenhuma dependência externa necessária. O script usa ferramentas nativas do Linux.
